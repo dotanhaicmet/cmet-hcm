@@ -1,0 +1,137 @@
+{
+  "majors": [
+    {
+      "name": "Y sĩ đa khoa",
+      "slug": "y-si-da-khoa",
+      "group": "Y Dược",
+      "description": "Đào tạo kiến thức y học cơ sở, kỹ năng thực hành chăm sóc sức khỏe theo chương trình được nhà trường công bố."
+    },
+    {
+      "name": "Y học cổ truyền",
+      "slug": "y-hoc-co-truyen",
+      "group": "Y Dược",
+      "description": "Định hướng kiến thức và kỹ năng trong lĩnh vực y học cổ truyền."
+    },
+    {
+      "name": "Điều dưỡng",
+      "slug": "dieu-duong",
+      "group": "Y Dược",
+      "description": "Rèn luyện kỹ năng chăm sóc người bệnh và thực hành điều dưỡng."
+    },
+    {
+      "name": "Dược",
+      "slug": "duoc",
+      "group": "Y Dược",
+      "description": "Tiếp cận kiến thức dược học và kỹ năng chuyên môn ngành Dược."
+    },
+    {
+      "name": "Chăm sóc sắc đẹp",
+      "slug": "cham-soc-sac-dep",
+      "group": "Y Dược",
+      "description": "Định hướng thực hành các kỹ năng chăm sóc sắc đẹp và dịch vụ liên quan."
+    },
+    {
+      "name": "Kỹ thuật phục hình răng",
+      "slug": "ky-thuat-phuc-hinh-rang",
+      "group": "Y Dược",
+      "description": "Tiếp cận kỹ thuật và quy trình phục hình răng trong môi trường thực hành."
+    },
+    {
+      "name": "Phục hồi chức năng",
+      "slug": "phuc-hoi-chuc-nang",
+      "group": "Y Dược",
+      "description": "Tìm hiểu kỹ thuật hỗ trợ phục hồi chức năng theo chương trình đào tạo."
+    },
+    {
+      "name": "Tiếng Trung Quốc",
+      "slug": "tieng-trung-quoc",
+      "group": "Ngôn ngữ",
+      "description": "Định hướng kỹ năng sử dụng tiếng Trung trong học tập và công việc."
+    },
+    {
+      "name": "Tiếng Hàn Quốc",
+      "slug": "tieng-han-quoc",
+      "group": "Ngôn ngữ",
+      "description": "Bồi dưỡng năng lực tiếng Hàn và giao tiếp thực tế."
+    },
+    {
+      "name": "Tiếng Nhật Bản",
+      "slug": "tieng-nhat",
+      "group": "Ngôn ngữ",
+      "description": "Học tiếng Nhật hướng tới ứng dụng trong môi trường làm việc."
+    },
+    {
+      "name": "Tiếng Anh",
+      "slug": "tieng-anh",
+      "group": "Ngôn ngữ",
+      "description": "Phát triển các kỹ năng tiếng Anh giao tiếp và chuyên môn."
+    },
+    {
+      "name": "Kế toán",
+      "slug": "ke-toan",
+      "group": "Kinh tế",
+      "description": "Kiến thức nền tảng kế toán, nghiệp vụ và công cụ ứng dụng."
+    },
+    {
+      "name": "Quản trị kinh doanh",
+      "slug": "quan-tri-kinh-doanh",
+      "group": "Kinh tế",
+      "description": "Định hướng quản trị, vận hành và tổ chức hoạt động kinh doanh."
+    },
+    {
+      "name": "Công nghệ thông tin",
+      "slug": "cong-nghe-thong-tin",
+      "group": "Công nghệ",
+      "description": "Học tập các nền tảng phần mềm, kỹ thuật số và thực hành CNTT."
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing",
+      "group": "Kinh tế",
+      "description": "Khám phá truyền thông thương hiệu và các kỹ năng tiếp thị."
+    },
+    {
+      "name": "Chế biến món ăn",
+      "slug": "che-bien-mon-an",
+      "group": "Công nghệ",
+      "description": "Rèn luyện nghiệp vụ bếp và kỹ thuật chế biến món ăn."
+    }
+  ],
+  "news": [
+    {
+      "slug": "thu-moi-hop-tac-du-hoc-han-quoc-d2-6",
+      "title": "Thư mời hợp tác – phát triển mạng lưới du học Hàn Quốc D2-6",
+      "summary": "CMET giới thiệu chương trình kết nối các đối tác và đơn vị liên quan trong hoạt động du học, trao đổi sinh viên Hàn Quốc D2-6.",
+      "image": "news-d2.webp",
+      "tag": "Hợp tác doanh nghiệp"
+    },
+    {
+      "slug": "cmet-tiep-suc-mua-thi-2026",
+      "title": "CMET tiếp sức mùa thi tại THPT Hiệp Hòa 4",
+      "summary": "Nhà trường đồng hành cùng sĩ tử trong kỳ thi tốt nghiệp THPT năm 2026.",
+      "image": "student-exam.webp",
+      "tag": "Hoạt động sinh viên"
+    },
+    {
+      "slug": "de-thi-toan-thpt-2026",
+      "title": "Đề thi Toán THPT 2026: Dễ lấy điểm nền, khó đạt điểm cao",
+      "summary": "Tin tuyển sinh và thông tin tham khảo dành cho thí sinh sau kỳ thi.",
+      "image": "news-math.webp",
+      "tag": "Tin tuyển sinh"
+    },
+    {
+      "slug": "bo-nhiem-can-bo-quan-ly",
+      "title": "Trường Cao đẳng Y Dược và Kinh tế Công nghệ trao quyết định bổ nhiệm cán bộ quản lý",
+      "summary": "Hoạt động kiện toàn tổ chức bộ máy và công tác quản lý của nhà trường.",
+      "image": "video-cover.webp",
+      "tag": "Hoạt động nhà trường"
+    },
+    {
+      "slug": "bo-nhiem-trung-tam-hop-tac",
+      "title": "CMET bổ nhiệm Giám đốc Trung tâm Hợp tác doanh nghiệp",
+      "summary": "Cập nhật hoạt động nhân sự và hợp tác doanh nghiệp của CMET.",
+      "image": "student-business.webp",
+      "tag": "Hoạt động nhà trường"
+    }
+  ]
+}

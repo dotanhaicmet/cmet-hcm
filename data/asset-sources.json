@@ -1,0 +1,258 @@
+[
+  {
+    "asset": "images/branding/brand.webp",
+    "source": "063_logo-11.png",
+    "original_resolution": "963x173",
+    "bytes": 35892
+  },
+  {
+    "asset": "images/banners/hero.webp",
+    "source": "080_poster-to-resize-1.jpg",
+    "original_resolution": "4867x1850",
+    "bytes": 149680
+  },
+  {
+    "asset": "images/banners/hero-mobile.webp",
+    "source": "011_Artboard-1.jpg",
+    "original_resolution": "3200x6083",
+    "bytes": 161888
+  },
+  {
+    "asset": "images/banners/promo-scholarship.webp",
+    "source": "020_cs-hocbong-landing-page-2.jpg",
+    "original_resolution": "2060x1836",
+    "bytes": 151528
+  },
+  {
+    "asset": "images/campus/campus-gate.webp",
+    "source": "010_anh-cong-truong.jpg",
+    "original_resolution": "1297x773",
+    "bytes": 252858
+  },
+  {
+    "asset": "images/media/video-cover.webp",
+    "source": "024_DSC08775.webp",
+    "original_resolution": "1600x1200",
+    "bytes": 216078
+  },
+  {
+    "asset": "images/programs/course-y-si-da-khoa.webp",
+    "source": "089_VHU_D3_1061-scaled-1.jpg",
+    "original_resolution": "2560x1707",
+    "bytes": 32914
+  },
+  {
+    "asset": "images/programs/course-y-hoc-co-truyen.webp",
+    "source": "095_YHCT_1f_b05609c993.jpg",
+    "original_resolution": "1000x667",
+    "bytes": 45996
+  },
+  {
+    "asset": "images/programs/course-dieu-duong.webp",
+    "source": "018_co-nen-hoc-nganh-dieu-duong.jpg",
+    "original_resolution": "1600x1067",
+    "bytes": 31288
+  },
+  {
+    "asset": "images/programs/course-duoc.webp",
+    "source": "031_duoc-si-gia-dinh-la-gi-1.jpg",
+    "original_resolution": "500x334",
+    "bytes": 29224
+  },
+  {
+    "asset": "images/programs/course-cham-soc-sac-dep.webp",
+    "source": "049_hinh-canh-spa-sang-trong-5-1024x683_5a56a6b9b61e4682800ed99e3a2d156b.jpg",
+    "original_resolution": "1024x683",
+    "bytes": 38188
+  },
+  {
+    "asset": "images/programs/course-ky-thuat-phuc-hinh-rang.webp",
+    "source": "078_phuc-hinh-rang.png",
+    "original_resolution": "602x465",
+    "bytes": 31602
+  },
+  {
+    "asset": "images/programs/course-phuc-hoi-chuc-nang.webp",
+    "source": "079_phuc-hoi-chuc-nang.png",
+    "original_resolution": "801x501",
+    "bytes": 30780
+  },
+  {
+    "asset": "images/programs/course-tieng-trung-quoc.webp",
+    "source": "030_du-lich-trung-quoc-7.jpg",
+    "original_resolution": "1200x800",
+    "bytes": 105652
+  },
+  {
+    "asset": "images/programs/course-tieng-han-quoc.webp",
+    "source": "029_du-lich-han-quoc-ivivu-2.jpg",
+    "original_resolution": "1536x1152",
+    "bytes": 84856
+  },
+  {
+    "asset": "images/programs/course-tieng-nhat.webp",
+    "source": "076_NhatBan.jpg",
+    "original_resolution": "1024x576",
+    "bytes": 71490
+  },
+  {
+    "asset": "images/programs/course-tieng-anh.webp",
+    "source": "022_dau-tu-dinh-cu-anh-quoc-casa-seguro-0001.jpg",
+    "original_resolution": "1000x667",
+    "bytes": 62802
+  },
+  {
+    "asset": "images/programs/course-ke-toan.webp",
+    "source": "060_ke-toan-dich-vu-tai-quang-ngai.png",
+    "original_resolution": "1024x682",
+    "bytes": 25650
+  },
+  {
+    "asset": "images/programs/course-quan-tri-kinh-doanh.webp",
+    "source": "081_quan-tri-kinh-doanh-la-gi-hieu-dung-ve-tiem-nang-cua-nganh-anh-1-1.jpg",
+    "original_resolution": "700x527",
+    "bytes": 38496
+  },
+  {
+    "asset": "images/programs/course-cong-nghe-thong-tin.webp",
+    "source": "075_nganh-cong-nghe-thong-tin-hoc-nhung-mon-gi-02.jpg",
+    "original_resolution": "1200x900",
+    "bytes": 53888
+  },
+  {
+    "asset": "images/programs/course-marketing.webp",
+    "source": "074_ngan-hang-600x400-1.jpg",
+    "original_resolution": "600x400",
+    "bytes": 16962
+  },
+  {
+    "asset": "images/programs/course-che-bien-mon-an.webp",
+    "source": "021_dau-bep-hoc-truong-nao-2.jpg",
+    "original_resolution": "600x398",
+    "bytes": 26420
+  },
+  {
+    "asset": "images/news/news-d2.webp",
+    "source": "002_1790994199936_856201128398435500_3752621730864658782_412ab40fe9771012230ae770906d663a.webp",
+    "original_resolution": "666x1000",
+    "bytes": 154782
+  },
+  {
+    "asset": "images/news/student-exam.webp",
+    "source": "023_DSC07202.webp",
+    "original_resolution": "1600x900",
+    "bytes": 102010
+  },
+  {
+    "asset": "images/news/news-math.webp",
+    "source": "017_ChatGPT-Image-08_17_16-12-thg-6-2026-1.webp",
+    "original_resolution": "1528x1029",
+    "bytes": 115008
+  },
+  {
+    "asset": "images/news/student-business.webp",
+    "source": "001_1784628177800_3996391072711724083_3996391072711724083_8e2cd1e53e6e6c26e04ee90736dff664.gif",
+    "original_resolution": "1981x1350",
+    "bytes": 72532
+  },
+  {
+    "asset": "images/gallery/album-1.webp",
+    "source": "028_DSC09584.webp",
+    "original_resolution": "5235x3490",
+    "bytes": 68884
+  },
+  {
+    "asset": "images/gallery/album-2.webp",
+    "source": "027_DSC09545.webp",
+    "original_resolution": "6000x4000",
+    "bytes": 135464
+  },
+  {
+    "asset": "images/gallery/album-3.webp",
+    "source": "025_DSC09523.webp",
+    "original_resolution": "5861x3907",
+    "bytes": 104158
+  },
+  {
+    "asset": "images/gallery/album-4.webp",
+    "source": "026_DSC09531.webp",
+    "original_resolution": "6000x4000",
+    "bytes": 114362
+  },
+  {
+    "asset": "images/gallery/album-5.webp",
+    "source": "004_605200961_122178678146790165_71507609920787595_n.jpg",
+    "original_resolution": "2048x1152",
+    "bytes": 134086
+  },
+  {
+    "asset": "images/partners/partner-1.webp",
+    "source": "065_logo-binh-duong.jpg",
+    "original_resolution": "1000x999",
+    "bytes": 26502
+  },
+  {
+    "asset": "images/partners/partner-2.webp",
+    "source": "066_logo-dong-nai.jpg",
+    "original_resolution": "732x732",
+    "bytes": 12392
+  },
+  {
+    "asset": "images/partners/partner-3.webp",
+    "source": "069_logo-thanh-dong.png",
+    "original_resolution": "1360x1343",
+    "bytes": 49964
+  },
+  {
+    "asset": "images/partners/partner-4.webp",
+    "source": "068_Logo-STT-01-1.png",
+    "original_resolution": "1042x1042",
+    "bytes": 43280
+  },
+  {
+    "asset": "images/partners/partner-5.webp",
+    "source": "019_cropped-logophoenix.png",
+    "original_resolution": "512x512",
+    "bytes": 22868
+  },
+  {
+    "asset": "images/banners/scholarship-ribbon.webp",
+    "source": "046_gif-hoc-bong-1.gif",
+    "original_resolution": "1280x160",
+    "bytes": 24500
+  },
+  {
+    "asset": "images/banners/official-banner.webp",
+    "source": "087_thong-tin-tuyen-sinh-1.gif",
+    "original_resolution": "1280x160",
+    "bytes": 20160
+  },
+  {
+    "asset": "images/branding/emblem.webp",
+    "source": "063_logo-11.png (crest crop)",
+    "original_resolution": "172x173",
+    "bytes": 19970
+  },
+  {
+    "asset": "images/banners/scholarship-ribbon.gif",
+    "source": "gif-hoc-bong-1.gif (RAR chính thức)",
+    "original_resolution": "1280x160",
+    "frames": 20,
+    "type": "animated-GIF",
+    "note": "Dùng cho banner học bổng; có WebP dự phòng giảm chuyển động"
+  },
+  {
+    "asset": "images/banners/official-banner.gif",
+    "source": "thong-tin-tuyen-sinh-1.gif (RAR chính thức)",
+    "original_resolution": "1280x160",
+    "frames": 20,
+    "type": "animated-GIF",
+    "note": "Dùng cho banner thông tin tuyển sinh; có WebP dự phòng giảm chuyển động"
+  },
+  {
+    "asset": "images/branding/favicon.png",
+    "source": "favicon from CMET v2 previous build",
+    "original_resolution": "32x32",
+    "note": "Generated school favicon, retained from previous release"
+  }
+]
